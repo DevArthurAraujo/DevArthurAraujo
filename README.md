@@ -5,8 +5,8 @@ FullStack Web Developer e DBA
 -----------------------------
 
 * 🌍  I'm based in Brasilia - DF
-* ✉️  You can contact me at [arthur.s.araujo7@aluno.senai.br](mailto:arthur.s.araujo7@aluno.senai.br)
-* 🧠  I'm learning FullStack Web Dev on Senai - Brasilia
+* ✉️  You can contact me at [dev.arthuraraujo@gmail.com](mailto:dev.arthuraraujo@gmail.com)
+* 🧠  I'm fullstack dev, currently a freelancer
 
 ### Skills
 
@@ -22,8 +22,8 @@ FullStack Web Developer e DBA
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ArthurSENAI"><img src="https://github-readme-stats.vercel.app/api?username=ArthurSENAI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArthurSENAI's GitHub stats" /></a>
+<a href="http://www.github.com/ArthurSENAI"><img src="https://github-readme-stats.vercel.app/api?username=ArthurSENAI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DevArthurAraujo's GitHub stats" /></a>
 
-<a href="http://www.github.com/ArthurSENAI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurSENAI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ArthurSENAI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevArthurAraujo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ArthurSENAI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSENAI&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ArthurSENAI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArthurAraujo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
